@@ -22,3 +22,18 @@ def main():
 
 if __name__ == "__main__":
     main()
+# from cs50 import get_int
+
+#r = get_int ( input ("r: ") )
+#while r < 1 or r > 8 :
+   #r = get_int ( input ("r: ") )
+
+#def hash(s,l) :
+   #ln = ' ' * s + "#" * l + "#" * l
+   #print(ln)
+
+#l = 1
+#while l <= r :   
+   #s = r - l   
+   #hash ( s , l )  
+   #l += 1
